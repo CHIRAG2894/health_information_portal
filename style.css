@@ -7,7 +7,7 @@ body{
 
 .container{
     background: white;
-    width: 98%;
+    width: 90%;
     max-width: 900px;
     margin: 20px auto;
     padding: 20px;
@@ -98,7 +98,7 @@ a:hover{
 @media (max-width: 480px){
 
     .container{
-        width: 98%;
+        width: 88%;
         padding: 18px;
     }
 
